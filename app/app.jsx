@@ -278,7 +278,7 @@ class Me extends React.Component {
         {data:'It\'s my presentation about me :)', waitAfter:0, type:'line_info'},
         {data:'Powered by React.js! Thank you Facebook Team!', waitAfter:1000, type:'line_info'},
         {data:'cat me'.split(''), waitAfter:1000, type:'line'},
-        {data:'Alexander Vishyakov in real live :)', waitAfter:1000, type:'line_info'},
+        {data:'Alexander Vishnyakov in real live :)', waitAfter:1000, type:'line_info'},
         {data:'cat contact'.split(''), waitAfter:1000, type:'line'},
         {data:'cyberlight AT live DOT ru', waitAfter:1000, type:'line_info'},
         {data:'cat github'.split(''), waitAfter:1000, type:'line'},
